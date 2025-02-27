@@ -14,7 +14,7 @@ public class main {
         m.multiPorSomaSucessiva(3, 4);
 
 
-
+//teste
 
 
     }
